@@ -1,0 +1,20 @@
+[
+    [
+        {key:"Jan", value:"1573.5"},
+        {key:"Jan", value:"1712.45"},
+        x 31...
+    ],
+    [
+        {key:"Feb", value:"1573.5"},
+        {key:"Feb", value:"1712.45"},
+        x 31...
+    ],
+    [
+        {key:"Mar", value:"1573.5"},
+        {key:"Mar", value:"1712.45"},
+        x 31...
+    ]
+    
+    x 12
+    
+]
